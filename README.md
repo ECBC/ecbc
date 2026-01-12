@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 - 🔭 I’m currently working as Data Manager for one of the biggest retailers in the world. 
   I lead the team of data analysts and data scientists in a 10B€ division inside the company.
 - 🌱 I’m currently learning how to apply secure and efficient Machine Learning and AI solutions.
@@ -10,4 +9,3 @@
 - 💬 Ask me about data, specially with Python and SQL.
   I am always happy to share knowledge. I found out the more I share the more I learn.
 - 📫 How to reach me: https://www.linkedin.com/in/enriquecortina/
--->
